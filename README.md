@@ -19,7 +19,7 @@ Original design created by Sonny Sangha.
 - Api from tmdb
 - JavaScript
 
-# Requisitos do projeto / Project Requirements:
+# :pencil2: Requisitos do projeto / Project Requirements:
 
 :brazil:
 
