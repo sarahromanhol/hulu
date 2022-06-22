@@ -4,7 +4,7 @@
 
 Projeto frontend utilizando NextJs e Tailwind que simula o site de streaming hulu.
 Projeto original criado por Sonny Sangha.
--------------------------------------------
+
 Frontend project using NextJs and Tailwind that simulates the hulu streaming site.
 Original design created by Sonny Sangha.
 
@@ -20,7 +20,7 @@ Original design created by Sonny Sangha.
 - Ter um header, navbar e página de conteúdos;
 - alterar a categoria do filme pelo navbar;
 - layout responsivo, mobile first;
---------------------------------------
+
 - Have a header, navbar and content page;
 - change movie category by navbar;
 - responsive layout, mobile first;
