@@ -21,7 +21,7 @@ Original design created by Sonny Sangha.
 - alterar a categoria do filme pelo navbar;
 - layout responsivo, mobile first;
 
-
+:triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post:
 
 - Have a header, navbar and content page;
 - change movie category by navbar;
