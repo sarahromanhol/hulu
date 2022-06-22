@@ -12,6 +12,10 @@ Projeto original criado por Sonny Sangha.
 Frontend project using NextJs and Tailwind that simulates the hulu streaming site.
 Original design created by Sonny Sangha.
 
+# :link: Url:
+
+https://hulu-alpha-eight.vercel.app/
+
 # 🛠 Tecnologias / Technologies:
 
 - NextJS
