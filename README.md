@@ -21,6 +21,8 @@ Original design created by Sonny Sangha.
 - alterar a categoria do filme pelo navbar;
 - layout responsivo, mobile first;
 
+
+
 - Have a header, navbar and content page;
 - change movie category by navbar;
 - responsive layout, mobile first;
